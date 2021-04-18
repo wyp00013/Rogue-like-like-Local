@@ -1,0 +1,20 @@
+Start of game
+Welcome Message
+SOUT LORE [Breaking in or Out]
+Have user input name/gender/age
+SOUT LORE [Breaking in or Out]
+Have User Select Difficulty 
+SOUT GAME mechanics [Breaking in or Out]
+SOUT LORE of first obstacle [Breaking in or Out]
+Once Completed SOUT next Obstacle Option
+SOUT first message about guard mechanics [Breaking in or Out]
+Display first Map [Breaking in or Out]
+SOUT User at next obstacle or puzzle mechanic
+Switch UserMap to Obstacle
+SOUT user Success and map choice
+Display next map choice / check for previous
+Repeat last three choices until user is either caught or gets to endgame
+If caught SOUT guard handcuffing and lockpick for handcuff mechanic
+Once User is successful continue on with game
+If at endgame treasure test call function for that puzzle
+Once a user successfully beats last lockpick [Treasure chest for in or a final gate to escape] SOUT success message and switch image of lockpick to static image of treasure chest or a map of the free world from escaping. 
